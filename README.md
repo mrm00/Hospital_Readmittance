@@ -1,1 +1,1 @@
-# Hospital_Readmittance
+This repository analyzes the relationship of the number of hospital discharges and the corresponding number of readmissions. This relationship essentially claims that the bigger the hospital (the more resources it has and the better it is able to treat its patients) the fewer its readmissions will be. I use a Frequentist test to evaluate the null hypothesis that the readmission ratio for larger hospitals is less than that for smaller hospitals.
